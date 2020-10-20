@@ -44,7 +44,7 @@ silahkan ikuti langkah langkah di bawah ini agar proses nya berjalan dengan lanc
 
 9. start mining.
 							 ↓↓↓↓↓↓↓
-	cd cpuminer-multi-arm_v8-x64
+	cd 'SOFTWARE MINER' && ls
 	chmod +x cpuminer
 	./cpuminer -a yescrypt -o stratum+tcp://yescrypt.sea.mine.zpool.ca:6233 -u wallet-doge-agan -p c=DOGE,zap=BSTY -t 4
 
